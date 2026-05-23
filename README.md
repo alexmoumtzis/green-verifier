@@ -7,6 +7,12 @@ The pipeline consists of multi-source document ingestion, dense retrieval of can
 
 ---
 
+## Final Report
+
+The project report is available here:
+
+- [GreenVerifier Final Report (PDF)](./GreenVerifier_final_report.pdf)
+
 
 
 ## Project Structure
